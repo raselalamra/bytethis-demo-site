@@ -1,14 +1,3 @@
-/*====================================================
-                DEFAULT VALUES:
-
-                Font Family                 : Roboto Condensed
-                cyan                        : #34c6d3       (Buttons, Icons, Links, Lines & Backgrounds)
-                Steel Gray                  : #41464b       (Headings)
-                Blue Bayoux                 : #64707b       (Paragraphs)
-                White                       : #fff          (Text With Black Backgrounds)
-                Black                       : #000 
-
-======================================================*/
 html {
   scroll-behavior: smooth;
 }
